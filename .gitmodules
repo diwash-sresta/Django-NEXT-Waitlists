@@ -1,0 +1,3 @@
+[submodule "django-next-frontend1"]
+	path = django-next-frontend1
+	url = https://github.com/diwash-sresta/django-next-frontend1
